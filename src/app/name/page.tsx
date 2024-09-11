@@ -2,8 +2,8 @@ import React from 'react'
 import Image from 'next/image';
 const page = () => {
   return (
-    <div>Home page</div>
-  )
+    <div>Neha Ejaz Ahmed</div>
+)
 }
 
 export default page
